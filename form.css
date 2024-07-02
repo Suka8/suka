@@ -1,5 +1,5 @@
 body {
-    background-color: #212121;
+    background-color: #f0a1a1;
 }
 .container {
     display: flex;
@@ -53,12 +53,12 @@ body {
     outline: none;
     transition: 0.4s;
     padding: 0px 7px;
-    background-color: #212121;
-    border: 2px solid #212121;
+    background-color: #f0a1a1;
+    border: 2px solid #f0a1a1;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 1), 1px 1px 10px rgba(255, 255, 255, 0.6);
 }
 .input::placeholder {
-    color: #999;
+    color: black;
 }
 .input:focus {
     transform: scale(1.05);
@@ -71,10 +71,10 @@ body {
 .btn {
     padding: 10px 35px;
     cursor: pointer;
-    background-color: #212121;
-    color: #fff;
+    background-color: #f0a1a1;
+    color: black;
     border-radius: 6px;
-    border: 2px solid #212121;
+    border: 2px solid #f0a1a1;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 1), 1px 1px 10px rgba(255, 255, 255, 0.6);
     font-size: 15px;
     font-weight: bold;
@@ -90,7 +90,7 @@ body {
 }
 .form .switch {
     font-size: 13px;
-    color: #fff;
+    color: black;
 }
 .form .switch .signup_tog {
     font-weight: 700;
