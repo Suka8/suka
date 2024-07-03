@@ -1,5 +1,5 @@
 body {
-    background-color: #f0a1a1;
+    background-color: #fff;
 }
 .container {
     display: flex;
@@ -53,8 +53,8 @@ body {
     outline: none;
     transition: 0.4s;
     padding: 0px 7px;
-    background-color: #f0a1a1;
-    border: 2px solid #f0a1a1;
+    background-color: #fff;
+    border: 2px solid #fff;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 1), 1px 1px 10px rgba(255, 255, 255, 0.6);
 }
 .input::placeholder {
@@ -71,10 +71,10 @@ body {
 .btn {
     padding: 10px 35px;
     cursor: pointer;
-    background-color: #f0a1a1;
+    background-color: #fff;
     color: black;
     border-radius: 6px;
-    border: 2px solid #f0a1a1;
+    border: 2px solid #fff;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 1), 1px 1px 10px rgba(255, 255, 255, 0.6);
     font-size: 15px;
     font-weight: bold;
